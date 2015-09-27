@@ -9,4 +9,4 @@ tagAutostart = "Auto start"
 </code>
 
 2.
-On the VM host, edit the crontab with <code>crontab -e</code> and add this line: <code>@reboot /root/xs_autostart.py</code>
+On the VM host, edit the crontab with <code>crontab -e</code> and add this line: <code>@reboot /root/xen-starter.py</code>
